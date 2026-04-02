@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @michaeldorsett.
 - 👀 I’m interested in bridging the gap between AI and Robotics.            
 - 🌱 I graduated with a degree in Computer Engineering from UNT with a concentration in AI. 
-- 💞️ I’m currently deep diving into building productive and intelligent Robotic arm. 
-- 🤖 I love thinking, talking and envisioning about the future of Robotics in our society.
+- 💞️ I’m currently deep diving into building productive and intelligent so-101 arm. 
+- 🤖 I love thinking, talking and envisioning about the future of robotics in our society.
 - 👨‍💻 My dream is to contribute to a robot that helps people live their best lives. 
 - 📫 3080TiDIFF#5348 on discord. 
 
